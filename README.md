@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/kjkasi/python-image/actions/workflows/docker-image.yml/badge.svg?branch=master)](https://github.com/kjkasi/python-image/actions/workflows/docker-image.yml)
+[![Build Status](https://github.com/kjkasi/python-image/actions/workflows/docker-image.yml/badge.svg)](https://github.com/kjkasi/python-image/actions/workflows/docker-image.yml)
 
 # python-image
 ```
