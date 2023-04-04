@@ -6,3 +6,4 @@ SQLAlchemy
 sqlalchemy-utils
 dependency-injector
 dependency-injector[yaml]
+alembic
