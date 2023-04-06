@@ -7,3 +7,5 @@ sqlalchemy-utils
 dependency-injector
 dependency-injector[yaml]
 alembic
+httpx
+pytest
