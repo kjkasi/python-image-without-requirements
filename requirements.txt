@@ -12,5 +12,3 @@ pytest
 pyyaml
 requests
 pytest-cov
-pytest-aio
-pytest-asgi-server
