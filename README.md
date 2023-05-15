@@ -4,7 +4,7 @@
 ```
 docker build -t python-image .
 docker login
-docker tag python-image:latest kjkasi/python-image:latest
-docker push kjkasi/python-image:latest
+docker tag python-image:latest kjkasi/python-image-without-requirements:latest
+docker push kjkasi/python-image-without-requirements:latest
 docker save -o F:\python-image.tar kjkasi/python-image:latest
 ```
