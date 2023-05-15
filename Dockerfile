@@ -13,9 +13,6 @@ ENV PYTHONUNBUFFERED=1
 
 RUN apk add python3 python3-dev g++ unixodbc-dev curl gnupg sudo
 
-# Install pip requirements
-COPY requirements.txt .
-RUN python -m pip install -r requirements.txt
 RUN python -m pip install --disable-pip-version-check debugpy -t /tmp
 
 #Download the desired package(s)
