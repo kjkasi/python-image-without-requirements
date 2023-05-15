@@ -1,6 +1,6 @@
 [![Build Status](https://github.com/kjkasi/python-image/actions/workflows/docker-image.yml/badge.svg)](https://github.com/kjkasi/python-image/actions/workflows/docker-image.yml)
 
-# python-image
+# python-image-without-requirements
 ```
 docker build -t python-image .
 docker login
